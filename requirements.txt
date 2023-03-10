@@ -1,0 +1,9 @@
+torch
+torchvision
+mmcv==2.0.0rc4
+streamlit==1.9.0
+watchdog
+terminaltables
+pycocotools
+scipy
+modelindex
